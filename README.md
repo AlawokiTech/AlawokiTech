@@ -2,6 +2,7 @@
 **AlawokiTech/AlawokiTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Header Image](https://via.placeholder.com/1280x300.png?text=Welcome+to+My+GitHub+Profile) <!-- Replace with your actual header image URL -->
 
 ## Hello there, I'm Owolabi Alawoki 👋
 
@@ -38,4 +39,4 @@ I’m an aspiring DevOps Engineer with 15 years of experience in network adminis
 
 Looking forward to connecting and exploring opportunities to build something remarkable together!
 
-
+![Footer Image](https://via.placeholder.com/1280x100.png?text=Thank+You+for+Visiting) <!-- Replace with your actual footer image URL -->
