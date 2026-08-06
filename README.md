@@ -41,9 +41,9 @@ I build under **Simpliflex Systems Ltd**.
 
 | Sport | Coverage | Approach |
 |---|---|---|
-| **Football** ⚽ | 16 leagues, plus Big-5 season models | Poisson and Dixon–Coles scorelines, expected-goals projection |
-| **Basketball** 🏀 | 427-league catalogue, measured across 325 | Rating systems with pace and form adjustment, Monte Carlo simulation |
-| **Tennis** 🎾 | ATP singles | Surface-weighted Elo |
+| **Football** | 16 leagues, plus Big-5 season models | Poisson and Dixon–Coles scorelines, expected-goals projection |
+| **Basketball** | 427-league catalogue, measured across 325 | Rating systems with pace and form adjustment, Monte Carlo simulation |
+| **Tennis** | ATP singles | Surface-weighted Elo |
 
 **How they are evaluated**
 
