@@ -3,9 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/15%20years-Networks%20%26%20Security-8b6cff?style=for-the-badge" alt="15 years in networks and security">
-  <img src="https://img.shields.io/badge/Builds-Production%20Web%20Apps-39b8ff?style=for-the-badge" alt="Builds production web apps">
-  <img src="https://img.shields.io/badge/Based%20in-Bristol%2C%20UK-2ea44f?style=for-the-badge" alt="Based in Bristol, UK">
+  <img src="https://img.shields.io/badge/Networks_%26_Security-8b6cff?style=for-the-badge&logoColor=white" alt="Networks and security">
+  <img src="https://img.shields.io/badge/Production_Web_Apps-39b8ff?style=for-the-badge&logoColor=white" alt="Production web apps">
+  <img src="https://img.shields.io/badge/Offline_First-2ea44f?style=for-the-badge&logoColor=white" alt="Offline first">
+  <img src="https://img.shields.io/badge/Bristol,_UK-334155?style=for-the-badge&logoColor=white" alt="Bristol, UK">
 </p>
 
 ## Hello 👋
@@ -24,7 +25,7 @@ I build under **Simpliflex Systems Ltd**.
 
 | Project | What it is | Scale |
 |---|---|---|
-| **[Cybersecurity Mastery](https://github.com/AlawokiTech/cyber-mastery)** 🔓 | Offline cybersecurity training, aligned to Security+ / CySA+ / CISSP | **15 tracks · 118 modules · 4,140 questions** |
+| **[Cybersecurity Mastery](https://github.com/AlawokiTech/cyber-mastery)** | Offline cybersecurity training, aligned to Security+ / CySA+ / CISSP | **15 tracks · 118 modules · 4,140 questions** |
 | **Simpliflex Learn** | UK National Curriculum platform, Key Stage 1 to GCSE | **515 topics · 32,678 questions** |
 | **Simpliflex Learn NG** | Nigerian curriculum edition with a JAMB exam simulator | **367 topics · 9,839 questions** |
 | **Career Learning Paths** | Cloud, Cyber, Software, DevOps, Data and AI — foundations to project work | **18 tracks** |
@@ -40,9 +41,9 @@ I build under **Simpliflex Systems Ltd**.
 
 | Sport | Coverage | Approach |
 |---|---|---|
-| ⚽ **Football** | 16 leagues, plus Big-5 season models | Poisson and Dixon–Coles scorelines, expected-goals projection |
-| 🏀 **Basketball** | 427-league catalogue, measured across 325 | Rating systems with pace and form adjustment, Monte Carlo simulation |
-| 🎾 **Tennis** | ATP singles | Surface-weighted Elo |
+| **Football** ⚽ | 16 leagues, plus Big-5 season models | Poisson and Dixon–Coles scorelines, expected-goals projection |
+| **Basketball** 🏀 | 427-league catalogue, measured across 325 | Rating systems with pace and form adjustment, Monte Carlo simulation |
+| **Tennis** 🎾 | ATP singles | Surface-weighted Elo |
 
 **How they are evaluated**
 
@@ -57,8 +58,8 @@ I build under **Simpliflex Systems Ltd**.
 
 | Project | What it is |
 |---|---|
-| **[Simpliflex Systems](https://github.com/AlawokiTech/simpliflex-website)** 🔓 | Company sites and brand assets for Simpliflex Systems Ltd (RC-9336897) |
-| **[AdRunna](https://www.adrunna.com.ng/)** 🌐 | AI-powered radio advertising marketplace for Nigeria — 300+ stations, smart media buying, live rates and availability. *Early-access waitlist open.* |
+| **[Simpliflex Systems](https://github.com/AlawokiTech/simpliflex-website)** | Company sites and brand assets for Simpliflex Systems Ltd (RC-9336897) |
+| **[AdRunna](https://www.adrunna.com.ng/)** | AI-powered radio advertising marketplace for Nigeria — 300+ stations, smart media buying, live rates and availability. *Early-access waitlist open.* |
 | **QS Pro Manager** | Quantity-surveying SaaS built for a client — React, Express and Prisma |
 
 ---
@@ -87,7 +88,6 @@ I build under **Simpliflex Systems Ltd**.
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Currently deepening** — Kubernetes · Terraform · AWS architecture · applied cybersecurity in a home lab
 
@@ -96,8 +96,8 @@ I build under **Simpliflex Systems Ltd**.
 ## 📬 Get in touch
 
 <p align="center">
-  <a href="mailto:kanmyng@yahoo.com"><img src="https://img.shields.io/badge/Email-kanmyng%40yahoo.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/owolabi-alawoki"><img src="https://img.shields.io/badge/LinkedIn-Owolabi%20Alawoki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:kanmyng@yahoo.com"><img src="https://img.shields.io/badge/kanmyng%40yahoo.com-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/owolabi-alawoki"><img src="https://img.shields.io/badge/Owolabi_Alawoki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
