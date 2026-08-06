@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Owolabi Alawoki — IT Infrastructure &amp; Security" width="100%">
+  <img src="./assets/header-v2.svg" alt="Owolabi Alawoki — IT Infrastructure &amp; Security" width="100%">
 </p>
 
 <p align="center">
