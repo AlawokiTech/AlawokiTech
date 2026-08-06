@@ -58,7 +58,7 @@ I build under **Simpliflex Systems Ltd**.
 | Project | What it is |
 |---|---|
 | **[Simpliflex Systems](https://github.com/AlawokiTech/simpliflex-website)** 🔓 | Company sites and brand assets for Simpliflex Systems Ltd (RC-9336897) |
-| **AdRunna** | AI-assisted radio advertising marketplace for the Nigerian market *(in development)* |
+| **[AdRunna](https://www.adrunna.com.ng/)** 🌐 | AI-powered radio advertising marketplace for Nigeria — 300+ stations, smart media buying, live rates and availability. *Early-access waitlist open.* |
 | **QS Pro Manager** | Quantity-surveying SaaS built for a client — React, Express and Prisma |
 
 ---
