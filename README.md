@@ -26,9 +26,9 @@ I build under **Simpliflex Systems Ltd**.
 | Project | What it is | Scale |
 |---|---|---|
 | **[Cybersecurity Mastery](https://github.com/AlawokiTech/cyber-mastery)** | Offline cybersecurity training, aligned to Security+ / CySA+ / CISSP | **15 tracks · 118 modules · 4,140 questions** |
-| **Simpliflex Learn** | UK National Curriculum platform, Key Stage 1 to GCSE | **515 topics · 32,678 questions** |
+| **[Simpliflex Learn](https://learn.simpliflex.com.ng/schools/)** | UK National Curriculum platform, Key Stage 1 to GCSE | **515 topics · 32,678 questions** |
 | **Simpliflex Learn NG** | Nigerian curriculum edition with a JAMB exam simulator | **367 topics · 9,839 questions** |
-| **Career Learning Paths** | Cloud, Cyber, Software, DevOps, Data and AI — foundations to project work | **18 tracks** |
+| **[Career Learning Paths](https://learn.simpliflex.com.ng/career.html)** | Cloud, Cyber, Software, DevOps, Data and AI — foundations to project work | **18 tracks** |
 | **Curious Kids Encyclopedia** | Illustrated offline encyclopedia for ages 9–12 | **~350 articles** |
 
 **Built in:** per-child accounts · parent dashboards · printable worksheets · offline text-to-speech · subscription billing
