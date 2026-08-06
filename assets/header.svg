@@ -1,50 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Owolabi Alawoki — IT Infrastructure and Security Engineering">
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Owolabi Alawoki — IT Infrastructure and Security Engineering">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0d1030"/>
-      <stop offset="55%" stop-color="#241a68"/>
-      <stop offset="100%" stop-color="#12456e"/>
+      <stop offset="0%" stop-color="#0d1030"/><stop offset="50%" stop-color="#2a1f78"/><stop offset="100%" stop-color="#12456e"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8b6cff"/>
-      <stop offset="100%" stop-color="#39b8ff"/>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b6cff"/><stop offset="100%" stop-color="#39b8ff"/>
     </linearGradient>
-    <linearGradient id="mark" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#8b6cff"/>
-      <stop offset="100%" stop-color="#39b8ff"/>
-    </linearGradient>
+    <g id="net" stroke="#8fc7ff" stroke-width="1.6" fill="none" opacity="0.34">
+      <path d="M20 60 L96 26 L150 84 L104 152 L28 132 Z"/><path d="M96 26 L168 12"/><path d="M104 152 L172 186"/>
+    </g>
+    <g id="dots" fill="#5fc8ff" opacity="0.72">
+      <circle cx="20" cy="60" r="5.5"/><circle cx="96" cy="26" r="5.5"/><circle cx="150" cy="84" r="5.5"/>
+      <circle cx="104" cy="152" r="5.5"/><circle cx="28" cy="132" r="5.5"/><circle cx="168" cy="12" r="4"/><circle cx="172" cy="186" r="4"/>
+    </g>
   </defs>
 
-  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
 
-  <!-- decorative network motif: nodes and links, a nod to 15 years of network engineering -->
-  <g stroke="#8b6cff" stroke-width="1.6" opacity="0.30">
-    <path d="M1010 74 L1104 128 L1080 226 L976 238 L928 150 Z" fill="none"/>
-    <path d="M1104 128 L1198 96"/>
-    <path d="M1080 226 L1176 262"/>
-    <path d="M928 150 L860 214"/>
-    <path d="M976 238 L1010 74"/>
-  </g>
-  <g fill="#39b8ff" opacity="0.85">
-    <circle cx="1010" cy="74" r="7"/><circle cx="1104" cy="128" r="7"/>
-    <circle cx="1080" cy="226" r="7"/><circle cx="976" cy="238" r="7"/>
-    <circle cx="928" cy="150" r="7"/><circle cx="1198" cy="96" r="5"/>
-    <circle cx="1176" cy="262" r="5"/><circle cx="860" cy="214" r="5"/>
-  </g>
+  <!-- mirrored motif, so the composition balances instead of leaning right -->
+  <g transform="translate(52,66)"><use href="#net"/><use href="#dots"/></g>
+  <g transform="translate(1228,66) scale(-1,1)"><use href="#net"/><use href="#dots"/></g>
 
-  <!-- monogram -->
-  <rect x="64" y="96" width="132" height="132" rx="30" fill="url(#mark)"/>
-  <text x="130" y="187" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="62"
-        font-weight="700" fill="#0d1030" text-anchor="middle" letter-spacing="1">OA</text>
+  <!-- everything centred on x=640 -->
+  <text x="640" y="132" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="70" font-weight="700" fill="#ffffff" letter-spacing="0.5">Owolabi Alawoki</text>
 
-  <!-- name + role -->
-  <text x="236" y="150" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="66"
-        font-weight="700" fill="#ffffff" letter-spacing="0.5">Owolabi Alawoki</text>
-  <text x="236" y="200" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="31"
-        font-weight="600" fill="#b9c4ff">IT Infrastructure &amp; Security  ·  Software That Ships</text>
+  <text x="640" y="184" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="30" font-weight="600" fill="#c3ccff" letter-spacing="3.4">IT INFRASTRUCTURE &amp; SECURITY</text>
 
-  <rect x="236" y="222" width="132" height="5" rx="2.5" fill="url(#accent)"/>
+  <rect x="570" y="208" width="140" height="5" rx="2.5" fill="url(#ac)"/>
 
-  <text x="236" y="272" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25"
-        font-weight="500" fill="#8f9bd4">15 years in networks &amp; security  ·  Simpliflex Systems Ltd</text>
+  <text x="640" y="262" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="25" font-weight="500" fill="#8f9bd4">15 years in networks &amp; security  ·  Simpliflex Systems Ltd</text>
 </svg>
